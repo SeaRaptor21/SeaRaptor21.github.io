@@ -1,0 +1,17 @@
+body {
+  font-family: futura, arial, sans-serif;
+  background-color: #aaf;
+}
+
+#page {
+  width: 100vw;
+  max-width: 500px;
+  min-height: 100vh;
+  padding: 10px;
+}
+
+#title {
+  font-size: 2em;
+  width: 100%;
+  text-align: center;
+}
