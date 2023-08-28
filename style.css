@@ -1,6 +1,7 @@
 body {
   font-family: futura, arial, sans-serif;
   background-color: #aaf;
+  text-align: center;
 }
 
 #page {
@@ -8,6 +9,8 @@ body {
   max-width: 500px;
   min-height: 100vh;
   padding: 10px;
+  background-color: #ddd;
+  text-align: left;
 }
 
 #title {
